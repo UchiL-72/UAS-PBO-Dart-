@@ -17,7 +17,7 @@ Sistem Perpustakaan (CLI/Terminal Based)
 6. **--- Validasi Data ---** Proteksi kesalahan input harga negatif atau nama kosong menggunakan Custom Exception.
 
 ## Cara Menjalankan Program
-1. Buka terminal pada folder `project_uas_pbo_1660/`.
+1. Buka terminal pada folder "UAS-PBO-Dart-/"
 2. Jalankan perintah berikut untuk mengeksekusi aplikasi:
    
    dart bin/main.dart
